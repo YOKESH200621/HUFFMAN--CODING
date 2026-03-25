@@ -28,8 +28,8 @@ print the characters and its huffmancode.
 # Register no  : 212224230313
 
 ``` Python
-# Get the input String
-string ="ANURADHA N"
+
+string ="YOKESH I"
 
 # Create tree nodes
 class NodeTree(object):
@@ -79,7 +79,7 @@ for (char, frequency) in freq:
 ```
 ## Output:
 ### Print the characters and its huffmancode
-![image](https://github.com/user-attachments/assets/4c7de190-f51d-4255-ba16-55e71752d648)
+<img width="248" height="233" alt="image" src="https://github.com/user-attachments/assets/fce65a5e-0041-49f6-af31-f483676b3515" />
 
 ## Result
 Thus the huffman coding was implemented to compress the data using python programming.
